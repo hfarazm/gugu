@@ -1,0 +1,128 @@
+fileFormatVersion: 2
+guid: 74efcb0b064c62c4dacb9b65d5952760
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: characterSide_0
+    21300002: characterSide_1
+    21300004: characterSide_2
+    21300006: characterSide_3
+    21300008: characterSide_4
+    21300010: characterSide_5
+    21300012: characterSide_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: characterSide_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 241
+        width: 181
+        height: 186
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: characterSide_1
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 376
+        width: 82
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: characterSide_2
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 345
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: characterSide_3
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 215
+        width: 117
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: characterSide_4
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 62
+        width: 284
+        height: 241
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: characterSide_5
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 30
+        width: 159
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: characterSide_6
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 126
+        width: 83
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
